@@ -1,0 +1,5 @@
+{
+  "name": "多模型对比器 / Multi-LLM Comparison Tool",
+  "description": "一个用于对比、分析和可视化不同 LLM 配置（角色/模型）对同一提示词回复差异的工具。",
+  "requestFramePermissions": []
+}
