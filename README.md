@@ -40,6 +40,10 @@
 
 你可以让左边模型非常严谨，让右边模型非常抽象，然后看它们如何解释同一件事，超好玩 🤣
 
+<div align="center">
+  <img src="https://github.com/mire403/multi-llm-comparison-tool/blob/main/%E5%A4%9A%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94%E5%99%A8-_-multi-llm-comparison-tool/picture/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C2.png">
+</div>
+
 ### 📄 3. 并排生成结果（核心组件：ResponseCard）
 
 生成后的内容会以两张高亮卡片方式呈现：
@@ -54,21 +58,17 @@
 
 📜 支持换行的 whitespace-pre-wrap 文本展示
 
-<div align="center">
-  <img src="https://github.com/mire403/multi-llm-comparison-tool/blob/main/%E5%A4%9A%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94%E5%99%A8-_-multi-llm-comparison-tool/picture/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C2.png">
-</div>
-
 左边是模型 A（默认）
 
 右边是模型 B（创意写作）
 
 两者风格对比一眼就能看出，一边偏冷峻写实，另一边偏浓烈诗意。
 
-### 📊 4. 图形化对比：雷达图 + 条形图
-
 <div align="center">
   <img src="https://github.com/mire403/multi-llm-comparison-tool/blob/main/%E5%A4%9A%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94%E5%99%A8-_-multi-llm-comparison-tool/picture/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C3.png">
 </div>
+
+### 📊 4. 图形化对比：雷达图 + 条形图
 
 🕸 **雷达图**：展示创造力、简洁性、客观性、技术深度、积极性
 
