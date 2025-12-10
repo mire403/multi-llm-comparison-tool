@@ -110,11 +110,11 @@ ComparisonView.tsx
 
 ResponseCard.tsx
 
-ModelConfigPanel.tsx（从 UI 结构可推断）
+ModelConfigPanel.tsx
 
 HistorySidebar.tsx
 
-AnalysisCharts.tsx（雷达图、条形图）
+AnalysisCharts.tsx
 
 ### 🔹 响应卡片功能由 ResponseCard 实现
 
